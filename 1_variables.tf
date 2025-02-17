@@ -13,7 +13,7 @@ variable "atlas_project_id" {
 }
 
 variable "atlas_cluster_region" {
-  default = "US-EAST-1"
+  default = "US_EAST_1"
 }
 
 variable "atlas_provider_name" {

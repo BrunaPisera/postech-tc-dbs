@@ -29,7 +29,7 @@ variable "atlas_mongo_db_auto_scaling_enabled" {
 }
 
 variable "atlas_mongo_db_major_version" {
-  default = "5.0"
+  default = "8.0"
 }
 
 variable "atlas_mongo_db_username" {
